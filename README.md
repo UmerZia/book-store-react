@@ -6,6 +6,9 @@ Book store is an interactive react base application.
 
 # Milestone-Completed
 
+- Initialize react app.
+- Add re-usable components.
+- Add react router.
 
 # Live-Demo (If available)
 
